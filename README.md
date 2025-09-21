@@ -1,6 +1,6 @@
-Perfect 👍 If you want to deploy this multi-page vanilla HTML/CSS/JS site with **Vercel**, the process is super simple — no build tools are needed.
+Perfect 🚀 Since you’ve already deployed your site to **Vercel**, we can update your README so it looks polished, professional, and includes your **live demo link**.
 
-Here’s the updated **README.md** with **Vercel deployment instructions**:
+Here’s the full `README.md` for your project:
 
 ---
 
@@ -8,15 +8,17 @@ Here’s the updated **README.md** with **Vercel deployment instructions**:
 # 🚀 Digital Agency Website
 
 A fully responsive **multi-page website template** built with **vanilla HTML, CSS, and JavaScript**.  
-This project is a modern digital agency site with separate pages for **Home, Services, Portfolio, Testimonials, and Contact**.  
+This project replicates a modern **digital agency landing page** with sections for services, portfolio, testimonials, and contact.  
+
+🌐 **Live Demo:** [Digital Agency Website](https://fproject-a010q5w4b-ciurimike-gmailcoms-projects.vercel.app)  
 
 ---
 
 ## 📂 Features
 - ✅ **Multi-page layout** – Home, Services, Portfolio, Testimonials, Contact  
 - ✅ **Responsive design** – Works on desktop, tablet, and mobile  
-- ✅ **Gradient hero & navbar** – Clean modern aesthetic  
-- ✅ **Active navigation highlighting** – Shows current page in menu  
+- ✅ **Gradient hero & navbar** – Modern blended color scheme  
+- ✅ **Active navigation highlighting** – Current page is clearly indicated  
 - ✅ **Smooth testimonial carousel** – Auto-sliding client feedback  
 - ✅ **Pure Vanilla Stack** – No frameworks, no dependencies  
 
@@ -42,15 +44,17 @@ digital-agency-landing/
 ---
 
 ## 🛠️ Getting Started
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/digital-agency-landing.git
-   cd digital-agency-landing
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/digital-agency-landing.git
+cd digital-agency-landing
 ````
 
-2. **Open in browser**
-   Simply open any `.html` file (e.g., `index.html`) in your browser.
-   *(No build tools required – pure HTML/CSS/JS.)*
+### 2. Open in browser
+
+Simply open any `.html` file (e.g., `index.html`) in your browser.
+*(No build tools required – pure HTML/CSS/JS.)*
 
 ---
 
@@ -62,23 +66,25 @@ digital-agency-landing/
 
 ---
 
-## 🌐 Deployment (Vercel)
+## 🌐 Deployment
 
-You can deploy this project for free using **Vercel**:
+This site is deployed with **[Vercel](https://vercel.com/)**.
 
-1. Push your project to a **GitHub** repository.
-2. Go to [Vercel](https://vercel.com/) and sign in with GitHub.
-3. Click **“New Project” → Import Repository**.
-4. Select your repo and hit **Deploy**.
+### Steps to deploy your own:
 
-   * Since this is a **static site**, no extra settings are needed.
-5. Once deployed, your site will be live at:
+1. Push your project to a **GitHub repository**.
+2. Log in to [Vercel](https://vercel.com/) and click **New Project**.
+3. Import your GitHub repo.
+4. Since this is a **static site**, no special configuration is needed.
+5. Click **Deploy** – your site will be live instantly 🎉.
 
-   ```
-   https://your-project-name.vercel.app
-   ```
+Your site will be available at:
 
-👉 Replace `your-project-name` with the name Vercel assigns (you can customize it in your dashboard).
+```
+https://your-project-name.vercel.app
+```
+
+👉 Current live deployment: [Digital Agency Website](https://fproject-a010q5w4b-ciurimike-gmailcoms-projects.vercel.app)
 
 ---
 
@@ -86,9 +92,10 @@ You can deploy this project for free using **Vercel**:
 
 This project is licensed under the **MIT License** – feel free to use, modify, and share.
 
+---
+
 ```
 
 ---
 
-Do you want me to also **add a `vercel.json` config file** (so it always uses `index.html` for root and keeps clean routes), or keep it minimal since it’s just static HTML?
 ```
